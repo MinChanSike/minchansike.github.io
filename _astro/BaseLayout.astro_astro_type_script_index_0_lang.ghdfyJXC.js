@@ -1,0 +1,1 @@
+import{t as e}from"./analytics.XoE1zjsp.js";document.addEventListener(`astro:page-load`,e),e();
