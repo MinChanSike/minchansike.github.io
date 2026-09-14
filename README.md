@@ -6,7 +6,7 @@
 
 <div align="center">
 
-### Senior Full-Stack Software Engineer | Real-Time Systems | Cloud Delivery
+### Full-Stack Software Engineer | Real-Time Systems | Cloud Delivery
 
 <p align="center">
   <img src="https://img.shields.io/badge/-C%23-512BD4?style=flat&logo=csharp&logoColor=white" alt="C#">
