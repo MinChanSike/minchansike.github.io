@@ -34,7 +34,7 @@ jobs:
         uses: actions/upload-pages-artifact@v3
         with:
           # Deploy files from the root directory
-          path: "."
+          path: ./dist
 
       - name: Deploy to GitHub Pages
         id: deployment

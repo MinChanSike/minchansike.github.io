@@ -1,3 +1,0 @@
-User-agent: *
-Allow: /
-Sitemap: https://minchansike.github.io/MinChanSike/sitemap-index.xml
